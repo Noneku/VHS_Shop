@@ -51,9 +51,6 @@ switch (terminal) {
             default:
                 break;
         }
-      break;
-    case '4':     
-      break;
     default:
   }
   
